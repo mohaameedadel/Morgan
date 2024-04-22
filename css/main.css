@@ -37,7 +37,7 @@ nav {
   color: var(--bs-primary);
 }
 .ul{
-  left: .625rem;
+  left: 20%;
 }
 .droop:hover .ul {
   display: block;
@@ -368,10 +368,3 @@ nav {
   }
 }
 
-/* X-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-}
-
-/* XX-Large devices (larger desktops, 1400px and up) */
-@media (min-width: 1400px) {
-}
